@@ -1,6 +1,6 @@
 # Fork a Repo & Create Your First Blog Challenge
 
-## Fork the repo HTML-Css-Template from the NGEN Room Org
+## Fork the repo `HTML-CSS-Template` from the NGEN Room Org
 1. __On your github account__ go to this link [HTML-CSS-Template](https://github.com/NGEN-Room/HTML-CSS-Template) 
 2. Fork this repo ( click the fork in the top right corner or reserach how to fork )
 
@@ -13,6 +13,13 @@ Te-Piha.github.io ( my username is Te-Piha)
 ``` 
 note this is important as the github pages will need this to work.
 
+## BEFORE YOU CLONE YOUR REPO
+1. In your command line you must make sure you are accessing `YOUR` email and name when going forward. To make sure you are logged in the command line:
+```
+1. git config --global user.name Te-Piha
+2. git config --global user.email t.niha@ngenroom.co.nz
+```
+_Note: The reason we are checkon this is because you want to make sure you are the correct person pushing the correct information up to your github_
 
 ## Clone Your Repo 
 1. __In Your command line__ cd (change directory) into the workspace directory on your desktop. Your command line should look like this:
