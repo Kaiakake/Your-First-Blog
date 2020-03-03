@@ -84,22 +84,12 @@ In the bad example you can see that i have put my `Te-Piha.github.io` repo into 
 
 _Note: There will be a delay from when you push your changes to github and actually showing up on your url_
 
-## Step 5: Technical Blog
-1. Clone this repo
-2. create a branch using your name
-3. answer these technical questions (if you havent notice you will be using your technical questions in your Blog)
+## Step 5: Technical + Reflection Blog
+We will be using everything that you have learn and storing them in a student jounral!
+1. clone student journal down to your workspace folder
+2. cd into the repo `student-journal`
+3. branch the repo naming `your-name-student-journal`
+4. open the files in vscode ( in command line hit `code .`)
+5. fill out the technical and reflction folders 
+6. commit and push your changes up back into github
 
-
-## What are Github Pages?
-
-## What is Forking?
-
-## What do i use Forking for?
-
-## What is the command on command line to create and change a branch?
-
-## What is open source code?
-
-## What is a habit you want to build for yourself?
-
-## What are somethings you could do to make this habit happen?
